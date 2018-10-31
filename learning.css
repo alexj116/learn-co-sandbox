@@ -1,0 +1,15 @@
+#wrap {
+  column-count: 2;
+}
+
+#content {
+  float:left;
+}
+
+#sidebar {
+  float:right;
+}
+
+p {
+  color:green;
+}
